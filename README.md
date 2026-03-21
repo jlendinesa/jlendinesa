@@ -12,7 +12,7 @@ Mi foco siempre es la programación, pero me declaro un gran apasionado de **Lin
 * 🎓 **Actualmente estudiando:** Administración de Sistemas Informáticos en Red (ASIX).
 * 💼 **Experiencia reciente:** Desarrollador Full-Stack en prácticas en *Etecnic* (Ruby on Rails, PostgreSQL, JS).
 * 🐧 **Linux & Homelab:** Me encanta el software libre. Dedico tiempo a personalizar y optimizar mi entorno Linux al máximo (¡fan de los *dotfiles*!), y administro mi propio **Home Server** donde despliego servicios y trasteo con mis proyectos backend.
-* 🏆 **Logros:** 2º Puesto en el programa *Impulsa Startup* con el proyecto orientado al fitness y la atención social **VIBELY**.
+* 🏆 **Logros:** 2º Puesto en el programa *Impulsa Startup* con el proyecto orientado a la conexión de los estudiantes con oferta de ocio local **VIBELY**.
 * ⚡ **Visión:** Gracias a mi trasfondo en sistemas y desarrollo, busco comprender y aplicar mejoras en todo el ciclo de vida del software, desde el primer commit hasta ponerlo en producción en el servidor.
 
 ---
