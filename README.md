@@ -25,7 +25,7 @@ Mi foco siempre es la programación, pero me declaro un gran apasionado de **Lin
 - HTML5, CSS3
 
 **Infraestructura, Bases de Datos y Sistemas**
-- Linux (Customización/Ricing, RedHat, Debian, Windows Server)
+- Linux (Customización/Ricing, NixOS, Ubuntu, Windows Server)
 - Self-Hosting & Administración de Home Server
 - PostgreSQL, MySQL, MariaDB, Oracle
 - Active Directory, LDAP, DNS, DHCP
